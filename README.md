@@ -1,6 +1,6 @@
 # vpshostapps
 
-Ferramentas Orion Design na VPS Hostinger
+Repositório contendo ferramentas da Orion Design configuradas para a VPS da Hostinger.
 
 ## 🚀 Demo
 
@@ -8,7 +8,7 @@ _Link não disponível._
 
 ## 🛠 Tecnologias
 
-_Nenhuma tecnologia informada._
+`VPS Hostinger` · `Shell Script`
 
 ## 📸 Screenshots
 
